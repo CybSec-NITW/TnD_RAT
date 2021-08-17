@@ -25,6 +25,6 @@ python3 -m http.server
 ```bash 
 nc -nlvp <PORT NUMBER>
 ```
-* Now, trick the victim into running our code on his device. (Make sure that the victim is connected to the internet.
+* Now, trick the victim into running our code on his device. (Make sure that the victim is connected to the internet.)
 
 * Woila!!!  You got a reverse shell into the victim's device. 
