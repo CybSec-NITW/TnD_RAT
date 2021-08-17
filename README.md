@@ -15,7 +15,7 @@ TnD_RAT is a basic Remote Access Trojan that I made from scratch. I've tested to
 ```bash
   ssh -i id_rsa <username>@IP_Address
 ```
-* After connecting to the server host the a python server
+* After connecting to the server, start a python server in the folder containing stage2 payload.
 ```bash 
 python3 -m http.server
 ```
