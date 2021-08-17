@@ -2,7 +2,7 @@
 TnD_RAT is a basic Remote Access Trojan that I made from scratch. I've tested to obtain a reverse shell on a Windows machine using it.
 
 ## Requirements
-* A virtual server and its RSA id.
+* A virtual private server.
 * A terminal to run ssh (preferably LINUX).
 * A victim.
 * My RAT code. 😉😉
